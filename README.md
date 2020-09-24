@@ -34,6 +34,6 @@
 ---
 
 
-<img align="left" alt="Donald's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DonaldLika&show_icons=true&hide_border=true" />
+<img align="left" alt="Hersi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hersikopani&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/hersikopani/
