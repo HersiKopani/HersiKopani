@@ -1,7 +1,7 @@
 ### Hello there, I'm Hersi!
 
 ## I'm a Software Developer!
-- 🛒 I’m currently working for a CRM product!
+- 🛒 I’m currently working for a Monetize project!
 - 🌱 I’m currently trying to be better and learn more everyday especially on machine learning.
 - 👯 I’m looking to collaborate with other open-source contributors
 - 🥅 2020 Goals: Become a better developer.
