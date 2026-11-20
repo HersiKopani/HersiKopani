@@ -1,6 +1,6 @@
 <p align="center">
 
-  <a href="https://github.com/HersiKopani"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Hersi%20Kopani&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20Java%20%26%20Spring%20Boot&descSize=24&descAlignY=64" width="100%" alt="Hersi Kopani, Software Developer" /></a>
+  <a href="https://github.com/HersiKopani"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Hersi%20Kopani&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descSize=24&descAlignY=64" width="100%" alt="Hersi Kopani, Software Developer" /></a>
 
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+backend+services.;%3E+Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL.;%3E+learning+something+new+every+day." width="100%" alt="building backend services. Java, Spring Boot, PostgreSQL. learning something new every day." />
 
@@ -9,7 +9,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/hersi-kopani-146506179/"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hersi-kopani/"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
 
   <a href="https://github.com/HersiKopani"><img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge" alt="GitHub" /></a>
 
@@ -67,7 +67,7 @@ me = {
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/hersi-kopani-146506179/"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Message me on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hersi-kopani/"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Message me on LinkedIn" /></a>
 
 </p>
 
