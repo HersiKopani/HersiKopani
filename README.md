@@ -1,39 +1,185 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hersi!
+<p align="center">
 
-##  I'm a Software Developer!
-- 🛒  I’m currently working for a Monetize project!
-- 🌱  I’m currently trying to be better and learn more everyday especially on machine learning.
-- 👯  I’m looking to collaborate with other open-source contributors
-- 🥅  2021 Goals: Become a better developer.
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Your%20Name&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Your%20Role%20%C2%B7%20Your%20Highlight&descSize=24&descAlignY=64" width="100%" alt="Your Name, Your Role" /></a>
 
----
-[<img align="left" alt="hersikopani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-### <- Connect with me: 
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+your+first+line.;%3E+your+second+line.;%3E+your+third+line." width="100%" alt="Your typing lines" />
 
----
+</p>
 
 
-🧰 Toolbox
+<p align="center">
 
-<img align="left" alt="IntelliJ" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
-<img align="left" alt="Spring" width="26px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
 
----
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
+
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+
+</p>
 
 
-[linkedin]: https://www.linkedin.com/in/hersi-kopani-146506179/
+<p align="center">
+
+  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 1" />
+
+  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 2" />
+
+  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 3" />
+
+</p>
 
 
+## 🧬 about
 
+
+```python
+
+me = {
+
+    "does":     "what you do, in one line",
+
+    "based":    "your city / country",
+
+    "was":      "your past role @ company",
+
+    "degree":   "your degree, school",
+
+    "learning": "what you are learning",
+
+    "speaks":   ["Language 1", "Language 2"],
+
+    "pronouns": "your pronouns",
+
+}
+
+```
+
+
+<details>
+
+<summary><b>🌱 how I got here. click for the short version</b></summary>
+
+<br />
+
+<table>
+
+  <tr><td><b>Year</b></td><td>what happened</td></tr>
+
+  <tr><td><b>Year</b></td><td>what happened</td></tr>
+
+  <tr><td><b>Year</b></td><td>what happened</td></tr>
+
+</table>
+
+</details>
+
+
+## 💼 experience
+
+
+<table>
+
+  <tr>
+
+    <td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year</sub></td>
+
+    <td valign="top">What you did, in one or two lines.</td>
+
+  </tr>
+
+  <tr>
+
+    <td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year to Year</sub></td>
+
+    <td valign="top">What you did, in one or two lines.</td>
+
+  </tr>
+
+</table>
+
+
+## 🚀 projects
+
+
+<table>
+
+  <tr>
+
+    <td width="50%" valign="top">
+
+      <h3>☁️ <a href="https://PROJECT_LINK">Project One</a></h3>
+
+      <sub><b>short label · live demo</b></sub>
+
+      <p>What it does, in one or two sentences.</p>
+
+      <p><code>Tool</code> <code>Tool</code> <code>Tool</code></p>
+
+      <a href="https://PROJECT_LINK"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>🩺 Project Two</h3>
+
+      <sub><b>short label</b></sub>
+
+      <p>What it does, in one or two sentences.</p>
+
+      <p><code>Tool</code> <code>Tool</code></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td width="50%" valign="top">
+
+      <h3>🌍 Project Three</h3>
+
+      <sub><b>short label</b></sub>
+
+      <p>What it does, in one or two sentences.</p>
+
+      <p><code>Tool</code></p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3>📂 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">More Work</a></h3>
+
+      <sub><b>everything else</b></sub>
+
+      <p>More projects live here.</p>
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+## 🧰 stack
+
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,postgres,docker,git,github,vscode,figma,notion&perline=14&theme=dark" alt="Tech stack" />
+
+</p>
+
+
+<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+
+
+<p align="center">
+
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+
+</p>
+
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=your%20sign-off%20line&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Your sign-off line" /></p>
